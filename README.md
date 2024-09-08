@@ -1,5 +1,9 @@
-## stack technologies
-<p align="center">
+<div align='center'><img src='link' alt='logo'></div>
+
+
+## Stack technologies
+
+<div align='center'>
     
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -13,11 +17,10 @@
 ![Static Badge](https://img.shields.io/badge/optuna-%23123692?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
+<br>
 
-</p>
-
----
-Некоторые реализованные проекты
+## Проекты Data Science
 
 
 | # | Проект | Описание | Стек |
