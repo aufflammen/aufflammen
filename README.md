@@ -1,4 +1,4 @@
-<div align='center'><img src='link' alt='logo'></div>
+<div align='center'><img src='https://raw.githubusercontent.com/aufflammen/aufflammen/main/logo.png' alt='logo'></div>
 
 
 ## Stack technologies
@@ -25,9 +25,8 @@
 
 | # | Проект | Описание | Стек |
 | --- | --- | --- | --- |
-| 01 | [Телеком](https://github.com/aufflammen/data_science_projects/blob/main/telecom/telecom.ipynb) | Прогнозирование разрыва договора клиентом  | `scikit-learn`, `catboost`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `optuna`, `shap` |
-
-
+| 01 | [Computer vision. Регрессия](https://github.com/aufflammen/data_science_projects/blob/main/age_determination/age_determination.ipynb) | Определение приблизительного возраста человека по фотографии | `torch`, `torchvision` `scikit-learn`, `pandas`, `matplotlib`, `seaborn` |
+| 02 | [Телеком](https://github.com/aufflammen/data_science_projects/blob/main/telecom/telecom.ipynb) | Прогнозирование разрыва договора клиентом  | `scikit-learn`, `catboost`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `optuna`, `shap` |
 
 
 
