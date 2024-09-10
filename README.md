@@ -24,6 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/optuna-%23123692?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/statsmodels-%234051b5?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/matplotlib-%2311557c?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
