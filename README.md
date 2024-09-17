@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align='center'>
-    <a href='https://leetcode.com/u/ikCN5Jo8o5/'>
+    <a href='https://leetcode.com/u/freudenfeuer/'>
         <img alt='LeetCode' src="https://img.shields.io/badge/leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
     </a>
 </div>
