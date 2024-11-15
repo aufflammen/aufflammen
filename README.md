@@ -30,12 +30,14 @@
 </div>
 <br>
 
-### Machine Learning algorithms
+## Repositories:
+
+#### Machine Learning algorithms
 repo: https://github.com/aufflammen/ml_algorithms  
-Реализация с нуля некоторых популярных алгоритмов ml.
+Реализация с нуля некоторых популярных алгоритмов ML.
 <br><br>
 
-### Projects Data Science
+#### Data Science projects
 repo: https://github.com/aufflammen/data_science_projects
 
 | # | Проект | Описание | Стек |
