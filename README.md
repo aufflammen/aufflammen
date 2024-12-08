@@ -20,9 +20,9 @@
 ![Static Badge](https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pythorh-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ultralytics-%234051b5?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/catboost-%23ffcc00?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/optuna-%23123692?style=for-the-badge&logoColor=white)
-![Static Badge](https://img.shields.io/badge/statsmodels-%234051b5?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/matplotlib-%2311557c?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -33,11 +33,16 @@
 ## Repositories:
 
 #### Machine Learning algorithms
+Реализация с нуля некоторых популярных алгоритмов ML.  
 repo: https://github.com/aufflammen/ml_algorithms  
-Реализация с нуля некоторых популярных алгоритмов ML.
+<br>
+
+#### Waste detection
+Проект по детекции пластикового мусора на конвейерной ленте  
+repo: https://github.com/aufflammen/waste_detection
 <br><br>
 
-#### Data Science projects
+#### Other Data Science projects
 repo: https://github.com/aufflammen/data_science_projects
 
 | # | Проект | Описание | Стек |
