@@ -34,11 +34,11 @@
 
 #### Machine Learning algorithms
 Реализация с нуля некоторых популярных алгоритмов ML.  
-repo: https://github.com/aufflammen/ml_algorithms  
-<br>
+repo: https://github.com/aufflammen/ml_algorithms
+<br><br>
 
 #### Waste detection
-Проект по детекции пластикового мусора на конвейерной ленте  
+Проект по детекции пластикового мусора на конвейерной ленте.  
 repo: https://github.com/aufflammen/waste_detection
 <br><br>
 
