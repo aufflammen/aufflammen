@@ -42,6 +42,11 @@ repo: https://github.com/aufflammen/ml_algorithms
 repo: https://github.com/aufflammen/waste_detection
 <br><br>
 
+#### OCR cyrillic
+Проект по распознаванию текстов русскоязычных книг на основе фотографий или изображений страниц.  
+repo: https://github.com/aufflammen/ocr_cyrillic
+<br><br>
+
 #### Other Data Science projects
 repo: https://github.com/aufflammen/data_science_projects
 
