@@ -32,6 +32,11 @@
 
 ## Repositories:
 
+#### Data Science projects
+Небольшие проекты, в основном выполненные в учебных целях.  
+repo: https://github.com/aufflammen/data_science_projects
+<br><br>
+
 #### Machine Learning algorithms
 Реализация с нуля некоторых популярных алгоритмов ML.  
 repo: https://github.com/aufflammen/ml_algorithms
@@ -47,17 +52,6 @@ repo: https://github.com/aufflammen/waste_detection
 repo: https://github.com/aufflammen/ocr_cyrillic
 <br><br>
 
-#### Other Data Science projects
-repo: https://github.com/aufflammen/data_science_projects
-
-| # | Проект | Описание | Стек |
-| --- | --- | --- | --- |
-| 01 | [Видео игры](https://github.com/aufflammen/data_science_projects/blob/main/01_video_games/video_games.ipynb) | Выявление факторов, определяющих успешность видеоигр | `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn` |
-| 02 | [Удовлетворенность сотрудников](https://github.com/aufflammen/data_science_projects/blob/main/02_employee_satisfaction_level/employee_satisfaction_level.ipynb) | Предсказание уровня удовлетворённости сотрудников и вероятности увольнения | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `shap` |
-| 03 | [Стоимость автомобилей](https://github.com/aufflammen/data_science_projects/blob/main/03_forecasting_car_prices/forecasting_car_prices.ipynb) | Предсказание стоимости автомобилей на основе технических характеристик | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `catboost`, `lightgbm`, `xgboost`, `optuna` |
-| 04 | [Прогноз заказов такси (time series)](https://github.com/aufflammen/data_science_projects/blob/main/04_taxi_%5Btime_series%5D/taxi.ipynb) | Прогнозирование количества заказов такси на следующий час | `statsmodels`, `arima`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `catboost`, `lightgbm`, `optuna` |
-| 05 | [Токсичность комментариев (NLP)](https://github.com/aufflammen/data_science_projects/blob/main/05_toxic_comments_%5Bnlp%5D/toxic_comments.ipynb) | Классификация комментариев на позитивные и негативные | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `catboost`, `optuna`, `spacy`, `gensim`, `transformers` |
-| 06 | [Определение возраста по фото (CV)](https://github.com/aufflammen/data_science_projects/blob/main/06_age_determination_%5Bcv%5D/age_determination.ipynb) | Определение приблизительного возраста человека по фотографии | `torch`, `torchvision`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn` |
-| 07 | [Телеком](https://github.com/aufflammen/data_science_projects/blob/main/07_telecom/telecom.ipynb) | Прогнозирование разрыва договора клиентом  | `scikit-learn`, `catboost`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `optuna`, `shap` |
-| 08 | [Journey to Springfield (CV)](https://github.com/aufflammen/data_science_projects/blob/main/08_journey_to_springfield_%5Bcv%5D/simpsons_classification.ipynb) | Классификация изображений Симпсонов | `torch`, `torchvision`, `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn` |
-| 09 | [EasyOCR cyrillic train (CV)](https://github.com/aufflammen/data_science_projects/blob/main/09_easyocr_%5Bcv%5D/notebook.ipynb) | Обучение модели EasyOCR на сгенерированных данных | `easyocr`, `torch`, `albumentations` |
+#### NLP Samokat
+Проект по решению задачи multilabel классификации текстов обратной связи от пользователей.  
+repo: https://github.com/aufflammen/nlp_samokat
