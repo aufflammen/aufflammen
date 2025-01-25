@@ -33,27 +33,11 @@
 <br>
 
 ## Repositories
+| title | description |
+| --- | --- |
+| [**Data Science projects**](https://github.com/aufflammen/data_science_projects) | Небольшие проекты, в основном выполненные в учебных целях |
+| [**Machine Learning algorithms**](https://github.com/aufflammen/ml_algorithms) | Реализация с нуля некоторых популярных алгоритмов ML |
+| [**Waste detection**](https://github.com/aufflammen/waste_detection) | Проект по детекции пластикового мусора на конвейерной ленте |
+| [**OCR cyrillic**](https://github.com/aufflammen/ocr_cyrillic) | Проект по распознаванию текстов русскоязычных книг на основе изображений страниц |
+| [**NLP Samokat**](https://github.com/aufflammen/nlp_samokat) | Проект по решению задачи multilabel классификации текстов обратной связи от пользователей |
 
-#### Data Science projects
-Небольшие проекты, в основном выполненные в учебных целях.  
-repo: https://github.com/aufflammen/data_science_projects
-<br><br>
-
-#### Machine Learning algorithms
-Реализация с нуля некоторых популярных алгоритмов ML.  
-repo: https://github.com/aufflammen/ml_algorithms
-<br><br>
-
-#### Waste detection
-Проект по детекции пластикового мусора на конвейерной ленте.  
-repo: https://github.com/aufflammen/waste_detection
-<br><br>
-
-#### OCR cyrillic
-Проект по распознаванию текстов русскоязычных книг на основе фотографий или изображений страниц.  
-repo: https://github.com/aufflammen/ocr_cyrillic
-<br><br>
-
-#### NLP Samokat
-Проект по решению задачи multilabel классификации текстов обратной связи от пользователей.  
-repo: https://github.com/aufflammen/nlp_samokat
